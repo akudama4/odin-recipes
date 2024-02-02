@@ -1,0 +1,1 @@
+This project is about polishing my html skills. Gonna maintain pretty simple structure, use basic elements etc. 
