@@ -8,13 +8,32 @@ body {
     color: black;
     font-size: 60px;
     text-align: center;
+    margin: auto;
+    padding: 5px;
+    border: 2px solid black;
 }
 
 .recipes-list {
-    font-size: 20px;
     background-color: antiquewhite;
     text-align: center;
+    border: 5px solid red;
+    margin-top: 20px;
+    display: block;
 }
+
+a {
+    color: rgb(238,232,170);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.list-items {
+    background-color: lightcoral;
+    margin: auto;
+    padding: 10px;
+    display: inline-block;
+    border: solid 5px white;
+}    
 
 .description {
     font-family: 'Times New Roman', Times, serif;
